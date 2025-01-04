@@ -1,6 +1,7 @@
 This project is a web-based application that aspires to provide a comprehensive and effective solution for the car rental industry, combining technology, usability, and innovation to create a modern and competitive online platform. With HTML, CSS and JavaScript on the Frontend, and Django on the Backend, risk mitigation strategies, and a clear development and testing process, we aim to deliver a high-quality and reliable car rental website that allows users to browse available cars, make reservations, and manage bookings.
 
 --------------------------------------
+
 Features
 
 User Features:
