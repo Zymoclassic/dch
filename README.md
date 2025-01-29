@@ -31,8 +31,6 @@ JavaScript: Interactive elements like form validations and dynamic car listings.
 Backend:
 Django: Handles the server-side logic, database management, and APIs.
 
-SQLite (default Django database): Stores car details, user data, and booking records.
-
 --------------------------------------
 Installation
 1. Clone the repository:
